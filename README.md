@@ -19,3 +19,7 @@ make
 ## Flash to the NUCLEO L476RG
 
 Copy the **.bin** file in the BUILD folder to the NUCLEO drive
+
+## More information
+
+https://microcontrollers.netlify.app/digital-io
